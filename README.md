@@ -24,6 +24,7 @@ A simple pixel editor built using [Odin programming language](https://odin-lang.
 | Switch foreground and background colors | X | - |
 | Reset foreground and background colors | D | - |
 | Zoom in/out | - | Wheel Up & Down |
+| Save image | Ctrl + S | - |
 
 # How to Build
 
