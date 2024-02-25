@@ -9,11 +9,9 @@ A simple pixel editor built using [Odin programming language](https://odin-lang.
 - [x] Eraser
 - [x] Fill bucket - currently fills whole canvas
 - [x] Adobe Photoshop-like color switching
-- [ ] Color selection
-- [ ] Custom canvas sizes
+- [x] Custom canvas sizes
 - [x] Zoom in/out
-- [ ] Export image
-- [ ] Undo/redo
+- [x] Export image
 
 # Keyboard shorcuts
 
